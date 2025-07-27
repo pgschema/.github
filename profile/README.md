@@ -1,5 +1,3 @@
-# pgschema
-
 > [!NOTE]  
 > Brought to you by [Bytebase](https://www.bytebase.com/), open-source database DevSecOps platform.
 
