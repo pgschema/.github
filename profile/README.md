@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Brought to you by [Bytebase](https://www.bytebase.com/), open-source database DevSecOps platform.
+> pgschema has been moved to the new home under the pgplex umbrella 👉 https://github.com/pgplex/pgschema
 
 Declarative schema migration for Postgres
 
